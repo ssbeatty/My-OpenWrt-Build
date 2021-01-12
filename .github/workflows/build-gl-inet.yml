@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/gl-inet/openwrt
-  REPO_BRANCH: develop
+  REPO_BRANCH: openwrt-19.07.5
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config_glinet
   DIY_P1_SH: diy-part1.sh

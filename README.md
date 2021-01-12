@@ -1,9 +1,9 @@
-# Actions-OpenWrt
+# 在线编译OpenWrt
 
 
+## 说明
 ```
-在线编译OpenWrt
-
-.config_glient  glient产品的编译
-.config         lean大的源
+diy-part1.sh 在feeds install之前运行
+.config 和 build-openwrt.yml 用的lean大的源
+.config_glient 和 build-gl-inet.yml 用的gl-inet的源
 ```
